@@ -23,6 +23,8 @@ The URL format is pretty flexible, so <http://s.printf.cc/?p/6400am> works too o
 
 This dispatcher is named after the [pavlova dessert](https://en.wikipedia.org/wiki/Pavlova_%28food%29) and draws a bridge between the [KiwiSDR project](http://kiwisdr.com/KiwiSDR/index.html) and [priyom.org](http://priyom.org/).
 
+[morse-code](https://morsecode.world/)
+
 Hosting
 =======
 
